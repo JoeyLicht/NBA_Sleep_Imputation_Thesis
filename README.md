@@ -3,7 +3,7 @@
 ## Code
 
 ### athletic_performance.py
-Cleans, merges, and normalizes athletic and sleep data, then runs regression analyses to study the relationship between sleep features and athletic performance metrics. It also includes functions for data plotting and statistical reporting.
+Cleans, merges, and normalizes athletic and sleep data, then runs regression analyses to study the relationship between sleep features and athletic performance metrics. 
 
 ### dataset_description.py
 Provides detailed descriptions of the datasets used, including the structure, variables, and any preprocessing steps taken to prepare the data for analysis.
@@ -29,11 +29,11 @@ Loading and saving utility functions.
 ### By Day
 - Tracks differences in sleep by day of the week.
 
-### Other
-- Contains plots to describe the dataset.
+### Final Thesis Figures
+- Contains plots used in licht_lichtj_meng_EECS_2024_thesis.pdf.
 
 ### Sleep Imputation
-- Results on sleep tracking imputation (`sleep_imputation.py`).
+- Results for sleep tracking imputation (`sleep_imputation.py`).
 
 ## Data (Not Uploaded to Git)
-Contains the datasets, both as raw data and cleaned versions (cleaned using `df_cleaning.py`).
+Contains the project datasets, both as raw data and cleaned versions (cleaned using `df_cleaning.py`).
