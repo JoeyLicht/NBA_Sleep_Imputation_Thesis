@@ -35,5 +35,5 @@ Loading and saving utility functions.
 ### Sleep Imputation
 - Results for sleep tracking imputation (`sleep_imputation.py`).
 
-## Data (Not Uploaded to Git)
+## Data (Not Uploaded to Git. Must be privately downloaded to local repository)
 Contains the project datasets, both as raw data and cleaned versions (cleaned using `df_cleaning.py`).
